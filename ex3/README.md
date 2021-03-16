@@ -1,7 +1,7 @@
 # EX 3 Find movies
 
 Let’s search for some movies!
-Documentation of the API —> https://www.omdbapi.com/
+Documentation of the API —> https://www.omdbapi.com/     http://www.omdbapi.com/?t=matrix
 
 Example call to the API searching for HARRY Potter movies: http://www.omdbapi.com/?s=harry potter&apikey=adf1f2d7
 
